@@ -1,6 +1,6 @@
 # 3D Object Scanner using VL53L0X, ESP32, and Stepper Motors
 
-This is a low-cost 3D object scanner built using an ESP32 microcontroller, VL53L0X distance sensor, and stepper motors. The idea is to scan a small object placed on a turntable and generate a file containing its 3D shape in the form of (x, y, z) coordinates.
+This is a low-cost 3D object scanner built using an ESP32 microcontroller, time of flight (ToF) based VL53L0X distance sensor, and stepper motors. The idea is to scan a small object placed on a turntable and generate a file containing its 3D shape in the form of (x, y, z) coordinates.
 
 ## How It Works
 
