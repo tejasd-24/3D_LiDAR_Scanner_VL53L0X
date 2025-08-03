@@ -57,10 +57,10 @@ There’s no need to use serial monitors or connect cables to retrieve the data.
 
 ## Team Members
 
-- Tejas Vijay Dahake  
-- Vaibhav Deora  
+- [Tejas Vijay Dahake](https://github.com/tejasd-24)  
+- [Vaibhav Deora](https://github.com/Ramprashaddeora)  
 - Saagarika Ural S  
-- Jayeshwar Pratap Singh Tanwar
+- [Jayeshwar Pratap Singh Tanwar](https://github.com/Jpst01)
 
 ## License
 
