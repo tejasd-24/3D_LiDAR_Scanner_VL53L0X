@@ -30,7 +30,7 @@ This opens a control page where you can:
 - Start the scan
 - Download the scan data directly to your computer as a `.txt` file
 
-There’s no need to use serial monitors or connect cables to retrieve the data.
+There’s no need to use serial monitors or connect cables to retrieve the data once the IP address is noted down after one time use of the serial monitor.
 
 ## Components Used
 
